@@ -36,7 +36,6 @@ redirect_from:
   - /actions/automating-your-workflow-with-github-actions/
   - /categories/automating-your-workflow-with-github-actions
   - /marketplace/actions
-  - /actions/guides
   - /actions/reference
 layout: product-landing
 versions:
@@ -47,19 +46,19 @@ versions:
 children:
   - /quickstart
   - /learn-github-actions
-  - /creating-actions
-  - /security-guides
+  - /managing-workflow-runs
   - /automating-builds-and-tests
   - /deployment
-  - /managing-issues-and-pull-requests
-  - /publishing-packages
   - /using-containerized-services
-  - /advanced-guides
-  - /managing-workflow-runs
+  - /publishing-packages
+  - /managing-issues-and-pull-requests
+  - /migrating-to-github-actions
   - /monitoring-and-troubleshooting-workflows
   - /using-github-hosted-runners
   - /hosting-your-own-runners
-  - /migrating-to-github-actions
+  - /security-guides
+  - /advanced-guides
+  - /creating-actions
   - /guides
 ---
 
